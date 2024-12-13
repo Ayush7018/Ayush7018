@@ -5,7 +5,7 @@
 
 
 -->
-# 💫 About Me: I'm Ayush Pandey, from Varanasi,Uttar Pradesh, INDIA.
+# 💫 About Me: I'm Ayush Pandey, from Varanasi (Uttar Pradesh), INDIA.
 🔭 I’m currently a student of B.tech (in 4th year). <br><br>🌱 I’m currently learning C++ & DSA. I have been learning Mern Stack, achieving 75% proficiency in MERN stack technologies and project <br>management.<br><br>👨‍💻 All of my projects are available at https://github.com/Ayush7018<br><br> 👯 I’m looking to collaborate on Development side in Mern Stack. I am also interested to collaborate with people on github on different minin and major projects wheather its MERN Stack projects or Problem solving projects using programming languages i have mentioned below.  <br> <br> 💬 Ask me about Problem Solving using C++, Frontend & Backend development.<br><br>📫 How to reach me: ayushpandey98070@gmail.com<br><br>⚡ Fun fact about me is when I’m not coding, you’ll find me playing game or just me overthinking.<br><br> 😄 Pronouns: He/Him.
 
 
