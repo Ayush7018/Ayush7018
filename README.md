@@ -29,6 +29,6 @@
 ![](https://github-contributor-stats.vercel.app/api?username=Ayush7018&limit=5&theme=shadow_blue&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ayush7018&icon=7&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Ayush7018&label=Profile%20Views&color=1&icon=2&pretty=true)](https://visitcount.itsvg.in)
 
 
